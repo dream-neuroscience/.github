@@ -9,6 +9,7 @@ Towards a synergy between lucid dream and action control research
     1. simplified framework --> **conceptual improvements**;  
     2. literature synthesis, why previous induction approaches did not work --> **methodological improvements**
 
+## Three-Step Plan
 ![image](https://user-images.githubusercontent.com/15858293/167286512-aaad700b-2a2c-4bec-b954-f7188927b308.png)
 
 <!--
